@@ -1,3 +1,7 @@
+[![Docker](https://img.shields.io/badge/Docker-multi--stage-2496ED?logo=docker&logoColor=white)](https://docs.docker.com/)
+[![React](https://img.shields.io/badge/React-app-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Dockerizing a React Application
 
 A reference for containerising a React app: a development setup with hot reload,
